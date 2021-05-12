@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620727257 source:c:\users\msi\onedrive\desktop\snake\snakegame\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<SDL.h>
+	<SDL_ttf.h>
+	<fstream>
+
